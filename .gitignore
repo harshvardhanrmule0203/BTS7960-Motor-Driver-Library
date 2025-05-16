@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Doxygen output
+Doxyfile*
+doxygen_sqlite3.db
+html/
+*.tmp
+
+# Arduino build files
+*.o
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+
+# VS Code settings
+.vscode/
+
+# Backup and temporary files
+*~
+*.bak
+*.swp
