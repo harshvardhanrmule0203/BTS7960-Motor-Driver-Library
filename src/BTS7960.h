@@ -13,7 +13,7 @@
 class BTS7960 {
 private:
   int lpwm, rpwm;
-  int Renb, Lenb;
+  int  Lenb, Renb;
   bool enableUse;
 
 public:
